@@ -1,0 +1,47 @@
+{
+  "name": "monnet-qa-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "acorn": "^8.15.0",
+    "acorn-walk": "^8.3.4",
+    "arg": "^4.1.3",
+    "create-require": "^1.1.1",
+    "diff": "^4.0.2",
+    "dotenv": "^16.5.0",
+    "make-error": "^1.3.6",
+    "playwright-core": "^1.53.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "undici-types": "^7.8.0",
+    "v8-compile-cache-lib": "^3.0.1",
+    "yn": "^3.1.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "playwright": "^1.53.0",
+    "dotenv": "^16.3.1",
+    "typescript": "^5.2.2",
+    "xlsx": "^0.18.5"
+
+  },
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postulaciones-palominoh/Monnet-QA-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postulaciones-palominoh/Monnet-QA-Challenge/issues"
+  },
+  "homepage": "https://github.com/postulaciones-palominoh/Monnet-QA-Challenge#readme"
+}
