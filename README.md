@@ -19,24 +19,6 @@ Este proyecto resuelve el challenge propuesto, implementando pruebas automatizad
 
 ---
 
-## 📁 Estructura del proyecto
-
-```
-automation-challenge/
-├── data/                 # Archivo de datos Excel
-├── fixtures/             # Fixture para clave secreta
-├── pages/                # Page Object (Wikipedia)
-├── tests/                # Pruebas API y Web
-├── utils/                # Utilidades (Excel, log, imágenes)
-├── images/               # Imágenes descargadas de Wikipedia
-├── logs/                 # Registros de ejecución
-├── .env                  # Clave secreta (fuera del control de versiones)
-├── playwright.config.ts  # Configuración global
-└── README.md
-```
-
----
-
 ## 🚀 Instrucciones de ejecución
 
 ### 1. Clonar e instalar dependencias
@@ -108,8 +90,8 @@ npm run report
 ## 📂 Evidencias generadas
 
 - 📄 `logs/`: eventos y errores por ejecución
-- 📷 Capturas automáticas al fallar un test
-- 🎥 Videos de ejecución fallida
+- 📷 Capturas automáticas al fallar un test en test-results/
+- 🎥 Videos de ejecución fallida en test-results/
 - 📁 `images/`: imágenes extraídas de Wikipedia
 
 ---

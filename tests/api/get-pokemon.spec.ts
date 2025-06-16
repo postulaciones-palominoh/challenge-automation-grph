@@ -14,10 +14,16 @@ for (const value of data) {
     expect(duration).toBeLessThan(10_000);
 
     const json = await response.json();
+
+    //Validaciones
     expect(json).toHaveProperty('id');
     expect(json).toHaveProperty('name');
     expect(json).toHaveProperty('abilities');
 
-    log(`✅ Test finalizado a las ${new Date().toLocaleString()}`);
+    //Logueo de datos validados
+    const abilities = json.abilities.map((a: any) => a.ability.name).join(', ');
+    log(`🔎 Pokémon: ID=${json.id}, Name=${json.name}, Abilities=${abilities}`);
+    log(`⏱️  Tiempo de respuesta: ${duration} ms`);
+    log(`✅ Test finalizado para ${value} a las ${new Date().toLocaleString()}`);
   });
 }

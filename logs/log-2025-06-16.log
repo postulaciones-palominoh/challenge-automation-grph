@@ -99,3 +99,188 @@
 [16/6/2025, 1:52:54 a. m.] [INFO] ✅ Imagen descargada correctamente: images/snorlax.jpg
 [16/6/2025, 1:52:54 a. m.] [INFO] ✅ Imagen validada correctamente: images/snorlax.jpg
 [16/6/2025, 1:52:54 a. m.] [INFO] ✅ Test finalizado a las 16/6/2025, 1:52:54 a. m.
+[16/6/2025, 1:58:02 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 1:58:02 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 1:58:02 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 1:58:03 a. m.] [INFO] ✅ Test finalizado a las 16/6/2025, 1:58:03 a. m.
+[16/6/2025, 1:58:03 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 1:58:03 a. m.] [INFO] ✅ Test finalizado a las 16/6/2025, 1:58:03 a. m.
+[16/6/2025, 1:58:03 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 1:58:03 a. m.] [INFO] ✅ Test finalizado a las 16/6/2025, 1:58:03 a. m.
+[16/6/2025, 1:58:03 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 1:58:03 a. m.] [INFO] ✅ Test finalizado a las 16/6/2025, 1:58:03 a. m.
+[16/6/2025, 1:58:03 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 1:58:03 a. m.] [INFO] ✅ Test finalizado a las 16/6/2025, 1:58:03 a. m.
+[16/6/2025, 1:58:03 a. m.] [INFO] ✅ Test finalizado a las 16/6/2025, 1:58:03 a. m.
+[16/6/2025, 1:58:03 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 1:58:03 a. m.] [INFO] ✅ Test finalizado a las 16/6/2025, 1:58:03 a. m.
+[16/6/2025, 1:58:03 a. m.] [INFO] ✍️ Autor del dibujo: Bulbasaur artwork by Ken Sugimori
+[16/6/2025, 1:58:04 a. m.] [INFO] ✅ Imagen descargada correctamente: images/bulbasaur.jpg
+[16/6/2025, 1:58:04 a. m.] [INFO] ✅ Imagen validada correctamente: images/bulbasaur.jpg
+[16/6/2025, 1:58:04 a. m.] [INFO] ✅ Test finalizado a las 16/6/2025, 1:58:04 a. m.
+[16/6/2025, 1:58:04 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 1:58:05 a. m.] [INFO] ✍️ Autor del dibujo: Pikachu artwork by Ken Sugimori
+[16/6/2025, 1:58:05 a. m.] [INFO] ✅ Imagen descargada correctamente: images/pikachu.jpg
+[16/6/2025, 1:58:05 a. m.] [INFO] ✅ Imagen validada correctamente: images/pikachu.jpg
+[16/6/2025, 1:58:05 a. m.] [INFO] ✅ Test finalizado a las 16/6/2025, 1:58:05 a. m.
+[16/6/2025, 1:58:05 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 1:58:07 a. m.] [INFO] ✍️ Autor del dibujo: Snorlax artwork by Ken Sugimori
+[16/6/2025, 1:58:07 a. m.] [INFO] ✅ Imagen descargada correctamente: images/snorlax.jpg
+[16/6/2025, 1:58:07 a. m.] [INFO] ✅ Imagen validada correctamente: images/snorlax.jpg
+[16/6/2025, 1:58:07 a. m.] [INFO] ✅ Test finalizado a las 16/6/2025, 1:58:07 a. m.
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:01:11 a. m.] [INFO] 📤 Enviando POST con payload: {"title":"foo","body":"bar","userId":1}
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔎 Pokémon: ID=1, Name=bulbasaur, Abilities=overgrow, chlorophyll
+[16/6/2025, 2:01:11 a. m.] [INFO] ⏱️ Tiempo de respuesta: 225 ms
+[16/6/2025, 2:01:11 a. m.] [INFO] ✅ Test finalizado para 1 a las 16/6/2025, 2:01:11 a. m.
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔎 Pokémon: ID=25, Name=pikachu, Abilities=static, lightning-rod
+[16/6/2025, 2:01:11 a. m.] [INFO] ⏱️ Tiempo de respuesta: 67 ms
+[16/6/2025, 2:01:11 a. m.] [INFO] ✅ Test finalizado para 25 a las 16/6/2025, 2:01:11 a. m.
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔎 Pokémon: ID=143, Name=snorlax, Abilities=immunity, thick-fat, gluttony
+[16/6/2025, 2:01:11 a. m.] [INFO] ⏱️ Tiempo de respuesta: 65 ms
+[16/6/2025, 2:01:11 a. m.] [INFO] ✅ Test finalizado para 143 a las 16/6/2025, 2:01:11 a. m.
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔎 Pokémon: ID=1, Name=bulbasaur, Abilities=overgrow, chlorophyll
+[16/6/2025, 2:01:11 a. m.] [INFO] ⏱️ Tiempo de respuesta: 64 ms
+[16/6/2025, 2:01:11 a. m.] [INFO] ✅ Test finalizado para bulbasaur a las 16/6/2025, 2:01:11 a. m.
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔎 Pokémon: ID=25, Name=pikachu, Abilities=static, lightning-rod
+[16/6/2025, 2:01:11 a. m.] [INFO] ⏱️ Tiempo de respuesta: 65 ms
+[16/6/2025, 2:01:11 a. m.] [INFO] ✅ Test finalizado para pikachu a las 16/6/2025, 2:01:11 a. m.
+[16/6/2025, 2:01:11 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:01:12 a. m.] [INFO] 📥 Respuesta recibida: {"title":"foo","body":"bar","userId":1,"id":101}
+[16/6/2025, 2:01:12 a. m.] [INFO] ✅ Test POST finalizado a las 16/6/2025, 2:01:12 a. m.
+[16/6/2025, 2:01:12 a. m.] [INFO] 🔎 Pokémon: ID=143, Name=snorlax, Abilities=immunity, thick-fat, gluttony
+[16/6/2025, 2:01:12 a. m.] [INFO] ⏱️ Tiempo de respuesta: 65 ms
+[16/6/2025, 2:01:12 a. m.] [INFO] ✅ Test finalizado para snorlax a las 16/6/2025, 2:01:12 a. m.
+[16/6/2025, 2:01:12 a. m.] [INFO] 📄 Título de la página: Bulbasaur - Wikipedia
+[16/6/2025, 2:01:12 a. m.] [INFO] ✍️ Autor del dibujo: Bulbasaur artwork by Ken Sugimori
+[16/6/2025, 2:01:12 a. m.] [INFO] 🖼️ URL de imagen obtenida: https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Pok%C3%A9mon_Bulbasaur_art.png/250px-Pok%C3%A9mon_Bulbasaur_art.png
+[16/6/2025, 2:01:13 a. m.] [INFO] ✅ Imagen descargada correctamente: images/bulbasaur.jpg
+[16/6/2025, 2:01:13 a. m.] [INFO] ✅ Imagen validada correctamente: images/bulbasaur.jpg
+[16/6/2025, 2:01:13 a. m.] [INFO] ✅ Imagen validada correctamente para bulbasaur
+[16/6/2025, 2:01:13 a. m.] [INFO] ✅ Test Wikipedia finalizado para bulbasaur a las 16/6/2025, 2:01:13 a. m.
+[16/6/2025, 2:01:13 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:01:14 a. m.] [INFO] 📄 Título de la página: Pikachu - Wikipedia
+[16/6/2025, 2:01:14 a. m.] [INFO] ✍️ Autor del dibujo: Pikachu artwork by Ken Sugimori
+[16/6/2025, 2:01:14 a. m.] [INFO] 🖼️ URL de imagen obtenida: https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Pok%C3%A9mon_Pikachu_art.png/250px-Pok%C3%A9mon_Pikachu_art.png
+[16/6/2025, 2:01:14 a. m.] [INFO] ✅ Imagen descargada correctamente: images/pikachu.jpg
+[16/6/2025, 2:01:14 a. m.] [INFO] ✅ Imagen validada correctamente: images/pikachu.jpg
+[16/6/2025, 2:01:14 a. m.] [INFO] ✅ Imagen validada correctamente para pikachu
+[16/6/2025, 2:01:14 a. m.] [INFO] ✅ Test Wikipedia finalizado para pikachu a las 16/6/2025, 2:01:14 a. m.
+[16/6/2025, 2:01:14 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:01:15 a. m.] [INFO] 📄 Título de la página: Snorlax - Wikipedia
+[16/6/2025, 2:01:15 a. m.] [INFO] ✍️ Autor del dibujo: Snorlax artwork by Ken Sugimori
+[16/6/2025, 2:01:15 a. m.] [INFO] 🖼️ URL de imagen obtenida: https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Pok%C3%A9mon_Snorlax_art.png/250px-Pok%C3%A9mon_Snorlax_art.png
+[16/6/2025, 2:01:15 a. m.] [INFO] ✅ Imagen descargada correctamente: images/snorlax.jpg
+[16/6/2025, 2:01:15 a. m.] [INFO] ✅ Imagen validada correctamente: images/snorlax.jpg
+[16/6/2025, 2:01:15 a. m.] [INFO] ✅ Imagen validada correctamente para snorlax
+[16/6/2025, 2:01:15 a. m.] [INFO] ✅ Test Wikipedia finalizado para snorlax a las 16/6/2025, 2:01:15 a. m.
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:02:37 a. m.] [INFO] 📤 Enviando POST con payload: {"title":"foo","body":"bar","userId":1}
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔎 Pokémon: ID=1, Name=bulbasaur, Abilities=overgrow, chlorophyll
+[16/6/2025, 2:02:37 a. m.] [INFO] ⏱️  Tiempo de respuesta: 238 ms
+[16/6/2025, 2:02:37 a. m.] [INFO] ✅ Test finalizado para 1 a las 16/6/2025, 2:02:37 a. m.
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔎 Pokémon: ID=25, Name=pikachu, Abilities=static, lightning-rod
+[16/6/2025, 2:02:37 a. m.] [INFO] ⏱️  Tiempo de respuesta: 68 ms
+[16/6/2025, 2:02:37 a. m.] [INFO] ✅ Test finalizado para 25 a las 16/6/2025, 2:02:37 a. m.
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔎 Pokémon: ID=143, Name=snorlax, Abilities=immunity, thick-fat, gluttony
+[16/6/2025, 2:02:37 a. m.] [INFO] ⏱️  Tiempo de respuesta: 72 ms
+[16/6/2025, 2:02:37 a. m.] [INFO] ✅ Test finalizado para 143 a las 16/6/2025, 2:02:37 a. m.
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔎 Pokémon: ID=1, Name=bulbasaur, Abilities=overgrow, chlorophyll
+[16/6/2025, 2:02:37 a. m.] [INFO] ⏱️  Tiempo de respuesta: 68 ms
+[16/6/2025, 2:02:37 a. m.] [INFO] ✅ Test finalizado para bulbasaur a las 16/6/2025, 2:02:37 a. m.
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔎 Pokémon: ID=25, Name=pikachu, Abilities=static, lightning-rod
+[16/6/2025, 2:02:37 a. m.] [INFO] ⏱️  Tiempo de respuesta: 68 ms
+[16/6/2025, 2:02:37 a. m.] [INFO] ✅ Test finalizado para pikachu a las 16/6/2025, 2:02:37 a. m.
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:02:37 a. m.] [INFO] 📥 Respuesta recibida: {"title":"foo","body":"bar","userId":1,"id":101}
+[16/6/2025, 2:02:37 a. m.] [INFO] ✅ Test POST finalizado a las 16/6/2025, 2:02:37 a. m.
+[16/6/2025, 2:02:37 a. m.] [INFO] 🔎 Pokémon: ID=143, Name=snorlax, Abilities=immunity, thick-fat, gluttony
+[16/6/2025, 2:02:37 a. m.] [INFO] ⏱️  Tiempo de respuesta: 67 ms
+[16/6/2025, 2:02:37 a. m.] [INFO] ✅ Test finalizado para snorlax a las 16/6/2025, 2:02:37 a. m.
+[16/6/2025, 2:02:38 a. m.] [INFO] 📄 Título de la página: Bulbasaur - Wikipedia
+[16/6/2025, 2:02:38 a. m.] [INFO] ✍️   Autor del dibujo: Bulbasaur artwork by Ken Sugimori
+[16/6/2025, 2:02:38 a. m.] [INFO] 🖼️   URL de imagen obtenida: https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Pok%C3%A9mon_Bulbasaur_art.png/250px-Pok%C3%A9mon_Bulbasaur_art.png
+[16/6/2025, 2:02:38 a. m.] [INFO] ✅ Imagen descargada correctamente: images/bulbasaur.jpg
+[16/6/2025, 2:02:38 a. m.] [INFO] ✅ Imagen validada correctamente: images/bulbasaur.jpg
+[16/6/2025, 2:02:38 a. m.] [INFO] ✅ Imagen validada correctamente para bulbasaur
+[16/6/2025, 2:02:38 a. m.] [INFO] ✅ Test Wikipedia finalizado para bulbasaur a las 16/6/2025, 2:02:38 a. m.
+[16/6/2025, 2:02:38 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:02:39 a. m.] [INFO] 📄 Título de la página: Pikachu - Wikipedia
+[16/6/2025, 2:02:40 a. m.] [INFO] ✍️   Autor del dibujo: Pikachu artwork by Ken Sugimori
+[16/6/2025, 2:02:40 a. m.] [INFO] 🖼️   URL de imagen obtenida: https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Pok%C3%A9mon_Pikachu_art.png/250px-Pok%C3%A9mon_Pikachu_art.png
+[16/6/2025, 2:02:40 a. m.] [INFO] ✅ Imagen descargada correctamente: images/pikachu.jpg
+[16/6/2025, 2:02:40 a. m.] [INFO] ✅ Imagen validada correctamente: images/pikachu.jpg
+[16/6/2025, 2:02:40 a. m.] [INFO] ✅ Imagen validada correctamente para pikachu
+[16/6/2025, 2:02:40 a. m.] [INFO] ✅ Test Wikipedia finalizado para pikachu a las 16/6/2025, 2:02:40 a. m.
+[16/6/2025, 2:02:40 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:02:41 a. m.] [INFO] 📄 Título de la página: Snorlax - Wikipedia
+[16/6/2025, 2:02:41 a. m.] [INFO] ✍️   Autor del dibujo: Snorlax artwork by Ken Sugimori
+[16/6/2025, 2:02:41 a. m.] [INFO] 🖼️   URL de imagen obtenida: https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Pok%C3%A9mon_Snorlax_art.png/250px-Pok%C3%A9mon_Snorlax_art.png
+[16/6/2025, 2:02:41 a. m.] [INFO] ✅ Imagen descargada correctamente: images/snorlax.jpg
+[16/6/2025, 2:02:41 a. m.] [INFO] ✅ Imagen validada correctamente: images/snorlax.jpg
+[16/6/2025, 2:02:41 a. m.] [INFO] ✅ Imagen validada correctamente para snorlax
+[16/6/2025, 2:02:41 a. m.] [INFO] ✅ Test Wikipedia finalizado para snorlax a las 16/6/2025, 2:02:41 a. m.
+[16/6/2025, 2:03:00 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:03:00 a. m.] [INFO] 📤 Enviando POST con payload: {"title":"foo","body":"bar","userId":1}
+[16/6/2025, 2:03:00 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:03:00 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:03:01 a. m.] [INFO] 🔎 Pokémon: ID=1, Name=bulbasaur, Abilities=overgrow, chlorophyll
+[16/6/2025, 2:03:01 a. m.] [INFO] ⏱️  Tiempo de respuesta: 231 ms
+[16/6/2025, 2:03:01 a. m.] [INFO] ✅ Test finalizado para 1 a las 16/6/2025, 2:03:01 a. m.
+[16/6/2025, 2:03:01 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:03:01 a. m.] [INFO] 🔎 Pokémon: ID=25, Name=pikachu, Abilities=static, lightning-rod
+[16/6/2025, 2:03:01 a. m.] [INFO] ⏱️  Tiempo de respuesta: 67 ms
+[16/6/2025, 2:03:01 a. m.] [INFO] ✅ Test finalizado para 25 a las 16/6/2025, 2:03:01 a. m.
+[16/6/2025, 2:03:01 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:03:01 a. m.] [INFO] 🔎 Pokémon: ID=143, Name=snorlax, Abilities=immunity, thick-fat, gluttony
+[16/6/2025, 2:03:01 a. m.] [INFO] ⏱️  Tiempo de respuesta: 67 ms
+[16/6/2025, 2:03:01 a. m.] [INFO] ✅ Test finalizado para 143 a las 16/6/2025, 2:03:01 a. m.
+[16/6/2025, 2:03:01 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:03:01 a. m.] [INFO] 🔎 Pokémon: ID=1, Name=bulbasaur, Abilities=overgrow, chlorophyll
+[16/6/2025, 2:03:01 a. m.] [INFO] ⏱️  Tiempo de respuesta: 66 ms
+[16/6/2025, 2:03:01 a. m.] [INFO] ✅ Test finalizado para bulbasaur a las 16/6/2025, 2:03:01 a. m.
+[16/6/2025, 2:03:01 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:03:01 a. m.] [INFO] 🔎 Pokémon: ID=25, Name=pikachu, Abilities=static, lightning-rod
+[16/6/2025, 2:03:01 a. m.] [INFO] ⏱️  Tiempo de respuesta: 68 ms
+[16/6/2025, 2:03:01 a. m.] [INFO] ✅ Test finalizado para pikachu a las 16/6/2025, 2:03:01 a. m.
+[16/6/2025, 2:03:01 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:03:01 a. m.] [INFO] 📥 Respuesta recibida: {"title":"foo","body":"bar","userId":1,"id":101}
+[16/6/2025, 2:03:01 a. m.] [INFO] ✅ Test POST finalizado a las 16/6/2025, 2:03:01 a. m.
+[16/6/2025, 2:03:01 a. m.] [INFO] 🔎 Pokémon: ID=143, Name=snorlax, Abilities=immunity, thick-fat, gluttony
+[16/6/2025, 2:03:01 a. m.] [INFO] ⏱️  Tiempo de respuesta: 66 ms
+[16/6/2025, 2:03:01 a. m.] [INFO] ✅ Test finalizado para snorlax a las 16/6/2025, 2:03:01 a. m.
+[16/6/2025, 2:03:01 a. m.] [INFO] 📄 Título de la página: Bulbasaur - Wikipedia
+[16/6/2025, 2:03:01 a. m.] [INFO] ✍️  Autor del dibujo: Bulbasaur artwork by Ken Sugimori
+[16/6/2025, 2:03:02 a. m.] [INFO] 🖼️  URL de imagen obtenida: https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Pok%C3%A9mon_Bulbasaur_art.png/250px-Pok%C3%A9mon_Bulbasaur_art.png
+[16/6/2025, 2:03:02 a. m.] [INFO] ✅ Imagen descargada correctamente: images/bulbasaur.jpg
+[16/6/2025, 2:03:02 a. m.] [INFO] ✅ Imagen validada correctamente: images/bulbasaur.jpg
+[16/6/2025, 2:03:02 a. m.] [INFO] ✅ Imagen validada correctamente para bulbasaur
+[16/6/2025, 2:03:02 a. m.] [INFO] ✅ Test Wikipedia finalizado para bulbasaur a las 16/6/2025, 2:03:02 a. m.
+[16/6/2025, 2:03:02 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:03:03 a. m.] [INFO] 📄 Título de la página: Pikachu - Wikipedia
+[16/6/2025, 2:03:03 a. m.] [INFO] ✍️  Autor del dibujo: Pikachu artwork by Ken Sugimori
+[16/6/2025, 2:03:03 a. m.] [INFO] 🖼️  URL de imagen obtenida: https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Pok%C3%A9mon_Pikachu_art.png/250px-Pok%C3%A9mon_Pikachu_art.png
+[16/6/2025, 2:03:03 a. m.] [INFO] ✅ Imagen descargada correctamente: images/pikachu.jpg
+[16/6/2025, 2:03:03 a. m.] [INFO] ✅ Imagen validada correctamente: images/pikachu.jpg
+[16/6/2025, 2:03:03 a. m.] [INFO] ✅ Imagen validada correctamente para pikachu
+[16/6/2025, 2:03:03 a. m.] [INFO] ✅ Test Wikipedia finalizado para pikachu a las 16/6/2025, 2:03:03 a. m.
+[16/6/2025, 2:03:03 a. m.] [INFO] 🔐 Clave secreta encriptada: b1f6f75ee234cf15ac2683c12e331d87cc1122aa8530605851eb27d968feef1d
+[16/6/2025, 2:03:04 a. m.] [INFO] 📄 Título de la página: Snorlax - Wikipedia
+[16/6/2025, 2:03:05 a. m.] [INFO] ✍️  Autor del dibujo: Snorlax artwork by Ken Sugimori
+[16/6/2025, 2:03:05 a. m.] [INFO] 🖼️  URL de imagen obtenida: https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Pok%C3%A9mon_Snorlax_art.png/250px-Pok%C3%A9mon_Snorlax_art.png
+[16/6/2025, 2:03:05 a. m.] [INFO] ✅ Imagen descargada correctamente: images/snorlax.jpg
+[16/6/2025, 2:03:05 a. m.] [INFO] ✅ Imagen validada correctamente: images/snorlax.jpg
+[16/6/2025, 2:03:05 a. m.] [INFO] ✅ Imagen validada correctamente para snorlax
+[16/6/2025, 2:03:05 a. m.] [INFO] ✅ Test Wikipedia finalizado para snorlax a las 16/6/2025, 2:03:05 a. m.
