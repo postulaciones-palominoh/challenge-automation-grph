@@ -17,8 +17,15 @@ export class WikipediaPage {
   }
 
   async getImageUrl(): Promise<string> {
-    const img = this.page.locator('table.infobox a.image img');
-    const src = await img.getAttribute('src');
-    return `https:${src}`;
+  const img = this.page.locator('.infobox img'); 
+
+  try {
+    await img.first().waitFor({ state: 'visible', timeout: 10_000 });
+    const src = await img.first().getAttribute('src');
+    if (!src) throw new Error('❌ No se encontró atributo src en la imagen');
+    return src.startsWith('http') ? src : `https:${src}`;
+  } catch (error) {
+    throw new Error(`❌ No se encontró la imagen destacada del Pokémon: ${error}`);
   }
+}
 }

@@ -1,5 +1,6 @@
 import { test, expect } from '../../fixtures/secret.fixture';
 import { readPokemonData } from '../../utils/excelReader';
+import { log } from '../../utils/loggers';
 
 const data = readPokemonData('data/Challenge automation - Datos-pruebas.xlsx');
 
@@ -17,6 +18,6 @@ for (const value of data) {
     expect(json).toHaveProperty('name');
     expect(json).toHaveProperty('abilities');
 
-    console.log(`✅ Test finalizado a las ${new Date().toLocaleString()}`);
+    log(`✅ Test finalizado a las ${new Date().toLocaleString()}`);
   });
 }

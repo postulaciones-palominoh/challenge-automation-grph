@@ -1,4 +1,5 @@
 import { test, expect } from '../../fixtures/secret.fixture';
+import { log } from '../../utils/loggers';
 
 test('POST jsonplaceholder', async ({ encryptedSecret }) => {
   const response = await fetch('https://jsonplaceholder.typicode.com/posts', {
@@ -12,5 +13,5 @@ test('POST jsonplaceholder', async ({ encryptedSecret }) => {
   expect(response.status).toBe(201);
   expect(json).toHaveProperty('id');
 
-  console.log(`✅ Test finalizado a las ${new Date().toLocaleString()}`);
+  log(`✅ Test finalizado a las ${new Date().toLocaleString()}`);
 });

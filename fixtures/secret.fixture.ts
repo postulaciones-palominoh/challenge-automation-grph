@@ -1,15 +1,16 @@
 import { test as base, expect } from '@playwright/test';
 import dotenv from 'dotenv';
-import { encryptSecret } from '../utils/encrypt'; // 👈 importa la función
+import { encryptSecret } from '../utils/encrypt'; 
+import { log } from '../utils/loggers';
 
 dotenv.config();
 
 const secret = process.env.SECRET_KEY || '';
-const encryptedSecret = encryptSecret(secret); // 👈 usa la función importada
+const encryptedSecret = encryptSecret(secret); 
 
 export const test = base.extend<{ encryptedSecret: string }>({
   encryptedSecret: async ({}, use) => {
-    console.log(`🔐 Clave secreta encriptada: ${encryptedSecret}`);
+    log(`🔐 Clave secreta encriptada: ${encryptedSecret}`);
     await use(encryptedSecret);
   },
 });

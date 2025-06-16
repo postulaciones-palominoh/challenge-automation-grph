@@ -1,10 +1,8 @@
 import fs from 'fs';
 import https from 'https';
 import path from 'path';
+import { log, logError } from './loggers';
 
-/**
- * Descarga una imagen desde una URL y la guarda en el disco.
- */
 export async function downloadImage(url: string, filepath: string): Promise<void> {
   const dir = path.dirname(filepath);
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
@@ -16,29 +14,43 @@ export async function downloadImage(url: string, filepath: string): Promise<void
       response.pipe(file);
       file.on('finish', () => {
         file.close((err) => {
-          if (err) reject(err);
-          else resolve();
+          if (err) {
+            logError(`❌ Error al cerrar el archivo ${filepath}: ${err}`);
+            reject(err);
+          } else {
+            log(`✅ Imagen descargada correctamente: ${filepath}`);
+            resolve();
+          }
         });
       });
     }).on('error', (err) => {
-      fs.unlinkSync(filepath);
+      logError(`❌ Error al descargar imagen desde ${url}: ${err}`);
+      try {
+        fs.unlinkSync(filepath);
+      } catch (unlinkErr) {
+        logError(`❌ Error al eliminar archivo incompleto: ${filepath}`);
+      }
       reject(err);
     });
   });
 }
 
-/**
- * Valida extensión y tamaño de una imagen descargada.
- */
 export async function validateImage(filepath: string): Promise<void> {
-  const validExtensions = ['.jpg', '.jpeg', '.png', '.svg'];
-  const ext = path.extname(filepath).toLowerCase();
-  const size = fs.statSync(filepath).size;
+  try {
+    const validExtensions = ['.jpg', '.jpeg', '.png', '.svg'];
+    const ext = path.extname(filepath).toLowerCase();
+    const size = fs.statSync(filepath).size;
 
-  if (!validExtensions.includes(ext)) {
-    throw new Error(`❌ Extensión inválida: ${ext}`);
-  }
-  if (size > 500_000) {
-    throw new Error(`❌ Tamaño excedido: ${size} bytes`);
+    if (!validExtensions.includes(ext)) {
+      throw new Error(`❌ Extensión inválida: ${ext}`);
+    }
+    if (size > 500_000) {
+      throw new Error(`❌ Tamaño excedido: ${size} bytes`);
+    }
+
+    log(`✅ Imagen validada correctamente: ${filepath}`);
+  } catch (err) {
+    logError(`❌ Error al validar imagen ${filepath}: ${err}`);
+    throw err;
   }
 }
