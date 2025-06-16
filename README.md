@@ -1,4 +1,3 @@
-```md
 # 🔍 Reto de Automatización Monnet – Playwright + TypeScript 
 
 Este proyecto resuelve el challenge propuesto, implementando pruebas automatizadas sobre APIs públicas y una interfaz web (Wikipedia), con enfoque profesional, seguro y escalable.
